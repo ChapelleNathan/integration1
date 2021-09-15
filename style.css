@@ -1,0 +1,104 @@
+body{
+    font-size: 62.5%;
+    text-align: center;
+    font-size: 0.6rem;
+    font-family: Arial;
+    color: grey;
+}
+
+nav{
+    background-color: rgb(95, 95, 95);
+    color: white;
+    width: 40%;
+    margin: auto;
+}
+
+ul{
+    list-style-type: none;
+    text-align: left;
+    padding-left: 0.1px;
+    margin: 0;
+}
+
+li{
+    display: inline-block;
+    margin-right: 50px;
+    padding: 6px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 0;
+}
+
+.carousel{
+    padding-bottom: 125px;
+    background-color: rgb(218, 218, 218);
+    width: 40%;
+    margin: 0 auto;
+}
+
+.first{
+    font-size: 1rem;
+    padding-left: 5px;
+}
+
+.second{
+    background-color: rgb(218, 218, 218);
+    color: black;
+    padding-top: 1.84%;
+    padding-bottom: 1.2%;
+}
+
+.yes{
+    font-size: 1rem;
+}
+
+.title2{
+    margin: 20px;
+}
+
+.article{
+    display: inline-block;
+    padding-bottom: 200px;
+    width: 12.9%;
+    background-color: rgb(218, 218, 218);
+    margin: 3px;
+    margin-top: 0;
+}
+
+hr{
+    width: 40%;
+    margin-top: 97px;
+}
+
+.contact{
+    padding-right: 500px;
+}
+
+form{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.contact{
+    text-align: left;
+    padding-right: 1px;
+    font-size: 1.2rem;
+}
+
+input{
+    width: 80%;
+    margin-bottom:5px ;
+}
+
+select{
+    width: 81%;
+    margin-bottom:5px ;
+}
+.borderOn{
+    border: 1px grey solid;
+}
+
+textarea{
+    width: 80%;
+    height: 50px;
+}
